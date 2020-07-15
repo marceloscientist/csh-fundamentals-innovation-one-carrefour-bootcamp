@@ -1,0 +1,13 @@
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\bin\Debug\netcoreapp3.1\Review.exe
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\bin\Debug\netcoreapp3.1\Review.deps.json
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.json
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.dev.json
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\bin\Debug\netcoreapp3.1\Review.dll
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\bin\Debug\netcoreapp3.1\Review.pdb
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.csprojAssemblyReference.cache
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfoInputs.cache
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfo.cs
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.csproj.CoreCompileInputs.cache
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.dll
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.pdb
+C:\Users\Usuario.DESKTOP-2JLCGR4\Documents\www\DigitalnnovationOne\fullstack-dev-banco-carrefour\csh\csh-fundamentals\review\Review\obj\Debug\netcoreapp3.1\Review.genruntimeconfig.cache
